@@ -11,3 +11,16 @@
 /home/Abdirahman/c#/Project-ULine/obj/Debug/netcoreapp3.1/Project-ULine.dll
 /home/Abdirahman/c#/Project-ULine/obj/Debug/netcoreapp3.1/Project-ULine.pdb
 /home/Abdirahman/c#/Project-ULine/obj/Debug/netcoreapp3.1/Project-ULine.genruntimeconfig.cache
+C:\Users\Abdirahman\Documents\c#\Project-ULine\bin\Debug\netcoreapp3.1\Project-ULine.exe
+C:\Users\Abdirahman\Documents\c#\Project-ULine\bin\Debug\netcoreapp3.1\Project-ULine.deps.json
+C:\Users\Abdirahman\Documents\c#\Project-ULine\bin\Debug\netcoreapp3.1\Project-ULine.runtimeconfig.json
+C:\Users\Abdirahman\Documents\c#\Project-ULine\bin\Debug\netcoreapp3.1\Project-ULine.runtimeconfig.dev.json
+C:\Users\Abdirahman\Documents\c#\Project-ULine\bin\Debug\netcoreapp3.1\Project-ULine.dll
+C:\Users\Abdirahman\Documents\c#\Project-ULine\bin\Debug\netcoreapp3.1\Project-ULine.pdb
+C:\Users\Abdirahman\Documents\c#\Project-ULine\obj\Debug\netcoreapp3.1\Project-ULine.csprojAssemblyReference.cache
+C:\Users\Abdirahman\Documents\c#\Project-ULine\obj\Debug\netcoreapp3.1\Project-ULine.AssemblyInfoInputs.cache
+C:\Users\Abdirahman\Documents\c#\Project-ULine\obj\Debug\netcoreapp3.1\Project-ULine.AssemblyInfo.cs
+C:\Users\Abdirahman\Documents\c#\Project-ULine\obj\Debug\netcoreapp3.1\Project-ULine.csproj.CoreCompileInputs.cache
+C:\Users\Abdirahman\Documents\c#\Project-ULine\obj\Debug\netcoreapp3.1\Project-ULine.dll
+C:\Users\Abdirahman\Documents\c#\Project-ULine\obj\Debug\netcoreapp3.1\Project-ULine.pdb
+C:\Users\Abdirahman\Documents\c#\Project-ULine\obj\Debug\netcoreapp3.1\Project-ULine.genruntimeconfig.cache
