@@ -1,0 +1,13 @@
+/home/Abdirahman/c#/Project-ULine/bin/Debug/netcoreapp3.1/Project-ULine
+/home/Abdirahman/c#/Project-ULine/bin/Debug/netcoreapp3.1/Project-ULine.deps.json
+/home/Abdirahman/c#/Project-ULine/bin/Debug/netcoreapp3.1/Project-ULine.runtimeconfig.json
+/home/Abdirahman/c#/Project-ULine/bin/Debug/netcoreapp3.1/Project-ULine.runtimeconfig.dev.json
+/home/Abdirahman/c#/Project-ULine/bin/Debug/netcoreapp3.1/Project-ULine.dll
+/home/Abdirahman/c#/Project-ULine/bin/Debug/netcoreapp3.1/Project-ULine.pdb
+/home/Abdirahman/c#/Project-ULine/obj/Debug/netcoreapp3.1/Project-ULine.csprojAssemblyReference.cache
+/home/Abdirahman/c#/Project-ULine/obj/Debug/netcoreapp3.1/Project-ULine.AssemblyInfoInputs.cache
+/home/Abdirahman/c#/Project-ULine/obj/Debug/netcoreapp3.1/Project-ULine.AssemblyInfo.cs
+/home/Abdirahman/c#/Project-ULine/obj/Debug/netcoreapp3.1/Project-ULine.csproj.CoreCompileInputs.cache
+/home/Abdirahman/c#/Project-ULine/obj/Debug/netcoreapp3.1/Project-ULine.dll
+/home/Abdirahman/c#/Project-ULine/obj/Debug/netcoreapp3.1/Project-ULine.pdb
+/home/Abdirahman/c#/Project-ULine/obj/Debug/netcoreapp3.1/Project-ULine.genruntimeconfig.cache

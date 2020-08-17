@@ -6,7 +6,7 @@ namespace Project_ULine
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World, via github!");
         }
     }
 }
